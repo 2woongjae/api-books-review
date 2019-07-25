@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "books_review",
+    "password": "books_review",
+    "database": "books_review",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "books_review",
+    "password": "books_review",
+    "database": "books_review",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "books_review",
+    "password": "books_review",
+    "database": "books_review",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
